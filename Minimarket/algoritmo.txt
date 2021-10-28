@@ -1,0 +1,52 @@
+Tienda pokemón.
+
+1- Resgistro
+    Resgistro: Nombre, apellido, mail.
+               Elegí tu Nombre Usuario.
+               Elegí tu contraseña.
+    login: Nombre Usurario, Contraseña.
+
+2- Pagina Inicial
+     Quienes Somos:
+                    Descripción.
+     Nuestros Productos:
+                    Dirigir al menu:
+                         Productos:
+                            Con tarjetas:
+                                img peluches, 
+                                   (Nombre pokemón,
+                                   tamaño "peluche",
+                                   poder,
+                                   tipo de pokemón).
+                                Seccion Pikachu:
+                                img Pikachu, 
+                                   (Nombre pokemón,
+                                   tamaño "peluche",
+                                   poder,
+                                   tipo de pokemón).
+                                Comprar,
+                                Metodos de pago,
+                                Pagar,
+                                Envios.
+
+3- Contacto:
+     Formulario:
+         Nombre,
+         mail,
+         Su consulta.
+
+en el footer.
+4- Nuetras Redes:
+    twitter,
+    facebook,
+    instagram.
+
+
+Despues de una compra.
+5- ¿Conforme con nuestro servicio?
+    alert (1 al 10)
+          "Siendo 1 el más bajo y 10 el más alto"
+
+
+    
+    
